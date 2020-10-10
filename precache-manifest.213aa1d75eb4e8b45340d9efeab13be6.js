@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e43054497ac543227e1103b2bce69701",
+    "revision": "be01e37011a3a903e5bcd704522385b4",
     "url": "/zscore-dashboard-ui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zscore-dashboard-ui/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "3cba4582b2e12e59cd24",
+    "revision": "27776a1ca502f13108c2",
     "url": "/zscore-dashboard-ui/static/css/main.00b9cdd5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zscore-dashboard-ui/static/js/2.3792df05.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cba4582b2e12e59cd24",
-    "url": "/zscore-dashboard-ui/static/js/main.dd16fe26.chunk.js"
+    "revision": "27776a1ca502f13108c2",
+    "url": "/zscore-dashboard-ui/static/js/main.ae0873fd.chunk.js"
   },
   {
     "revision": "abe025ced7ce7d0dc2a4",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zscore-dashboard-ui/precache-manifest.e6c1cd1c6d7b62830a96f1aba5581c03.js"
+  "/zscore-dashboard-ui/precache-manifest.213aa1d75eb4e8b45340d9efeab13be6.js"
 );
 
 self.addEventListener('message', (event) => {
